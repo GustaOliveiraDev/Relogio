@@ -1,5 +1,9 @@
 # relogio
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/123316156/227799790-50c341a1-fbdd-402f-9909-fdb14007578f.png" width="500px" />
+</div>
+
 ## Project setup
 ```
 npm install
