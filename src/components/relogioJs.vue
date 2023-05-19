@@ -80,13 +80,13 @@ export default {
 }
 
 .container {
-  background-color: #425466;
+  background-color: #253046;
 }
 
 main {
   height: 100vh;
   width: 100vw;
-  background-color: #425466;
+  background-color: #253046;
   display: flex;
   justify-content: center;
   align-items: center;
