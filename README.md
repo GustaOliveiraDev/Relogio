@@ -1,7 +1,7 @@
 # relogio
 
 <div align="center">
-[<img src="https://user-images.githubusercontent.com/123316156/227799790-50c341a1-fbdd-402f-9909-fdb14007578f.png" width="500px" />](https://user-images.githubusercontent.com/123316156/239643358-4f2f02f8-64b8-46bc-9c14-46a33b52c81c.png)
+[<img src="https://user-images.githubusercontent.com/123316156/239643358-4f2f02f8-64b8-46bc-9c14-46a33b52c81c.png" width="500px" />](https://user-images.githubusercontent.com/123316156/239643358-4f2f02f8-64b8-46bc-9c14-46a33b52c81c.png )
 </div>
 
 ## Project setup
